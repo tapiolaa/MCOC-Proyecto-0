@@ -18,7 +18,7 @@ A continuación, se presenta un a imagen donde se grafica la función. Aquí se 
 
 ![Results](funcion.png)
 
-Sin embargo, mediante el mismo codigo de python al crear una lista de números con los exponentes de -10 simulando la tendencia de x hacia el infinito negativo se tiene que el limite es igual a 0. Esto claramente muestra un error de calculo relacionado con la perdida de significancia que sufren los numeros al someterse a calculos en maquinas ya que evidentemente en como se muestra en la figura el resultado del límite debió dar -0.25. En la siguiente imagen se puede apreciar la tendencia de x mientras avanza hacia infinito negativo.
+Sin embargo, mediante el mismo codigo de python al crear una lista de números con los exponentes de -10 simulando la tendencia de x hacia el infinito negativo se tiene que el limite es igual a 0. Esto claramente muestra un error de calculo relacionado con la perdida de significancia que sufren los numeros al someterse a calculos en maquinas ya que evidentemente en como se muestra en la figura el resultado del límite debió dar -0.25. En la siguiente imagen se puede apreciar la tendencia de x mientras avanza hacia infinito negativo con un paso de potencias de 10, es decir de -10 a -10^2 a -10^3, etc.
 
 ![Results](limits1.png)
 
@@ -34,7 +34,7 @@ En la imagen a continuación se verifica que ambas funciones son equivalentes.
 
 ![Results](funciones.png)
 
-Aplicando límite a la nueva funcion se tiene:
+Aplicando límite a la nueva funcion se tiene el siguiente gráfico donde se muestra el avance que tiene x mientras esta va tendiendo a infinito negativo.
 
 ![Results](limits2.png)
 
