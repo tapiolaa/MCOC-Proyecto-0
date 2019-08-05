@@ -38,5 +38,5 @@ Aplicando límite a la nueva funcion se tiene el siguiente gráfico donde se mue
 
 ![Results](limits2.png)
 
-Con esto, se puede corroborar que el límite de la función siempre fue -0,25 y que por un error de significancia este se vió alterado.
+Con esto, se puede corroborar que el límite de la función siempre fue -0,25 y que por la capacidad de la memoria del computador se produce un error de significancia el cual comienza a eliminar aquellos números que son muy grandes y que exceden sus capacidades, alterando de esta manera el límite.
 
